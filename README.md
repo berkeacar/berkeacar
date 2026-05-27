@@ -27,5 +27,5 @@ Final-year **Computer Engineering** student at **Politecnico di Torino** 🇮�
 
 ### 📫 Connect with Me
 
-* **Email:** acarberke06@gmail.com
+* **Email:** berke.acar@studenti.polito.it
 * **LinkedIn:** [linkedin.com/in/berke-acar](https://linkedin.com/in/berke-acar) 
